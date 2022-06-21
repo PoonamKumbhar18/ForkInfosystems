@@ -88,25 +88,25 @@ navSlide();
 
 async function getPictures(){
   const result = await fetch("../json/gallary.json");
-            const data = await result.json();
-            const pics = data.pictures;
-            
-            for(let item of pics){
-              console.log("byy");
-              var product = document.createElement("div");
-              var img = document.createElement("img");
-              img.src = item.image;
+  const data = await result.json();
+  const pics = data.pictures;
+  
+  for(let item of pics){
+    console.log("byy");
+    var product = document.createElement("div");
+    var img = document.createElement("img");
+    img.src = item.image;
 
-              var desc = document.createElement("div")
-              var des = document.createElement("p")
-              p.value = item.description;
+    var desc = document.createElement("div")
+    var des = document.createElement("p")
+    p.value = item.description;
 
-              product.appendChild(img);
-              document.querySelector(".gallarys").appendChild(product);
+    product.appendChild(img);
+    document.querySelector(".gallarys").appendChild(product);
 
-              desc.appendChild(des);
-              document.querySelector(".paragraph").appendChild(desc);
-            }
+    desc.appendChild(des);
+    document.querySelector(".paragraph").appendChild(desc);
+  }
 }
 
  
