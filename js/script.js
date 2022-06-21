@@ -96,8 +96,16 @@ async function getPictures(){
               var product = document.createElement("div");
               var img = document.createElement("img");
               img.src = item.image;
+
+              var desc = document.createElement("div")
+              var des = document.createElement("p")
+              p.src = item.description;
+
               product.appendChild(img);
               document.querySelector(".gallarys").appendChild(product);
+
+              desc.appendChild(des);
+              document.querySelector(".paragraph").appendChild(desc);
             }
 }
 
