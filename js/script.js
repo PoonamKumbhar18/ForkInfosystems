@@ -112,7 +112,7 @@ async function getPictures(){
             const data = await result.json();
             const pics = data.pictures;
             
-            for(let item of gallarys){
+            for(let item of pics){
               console.log("byy");
               var product = document.createElement("div");
               var img = document.createElement("img");
