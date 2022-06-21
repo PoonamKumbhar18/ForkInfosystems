@@ -113,7 +113,7 @@ async function getPictures(){
             const pics = data.pictures;
             
             for(let item of gallarys){
-              console.log("hello");
+              console.log("byy");
               var product = document.createElement("div");
               var img = document.createElement("img");
               img.src = item.image;
