@@ -1,0 +1,31 @@
+{
+	"pictures":[
+		{
+	
+			"image": "../images/1.jpg",
+			"description": "Student got prize in coding competition ."
+			
+		},
+		{
+			"image": "../images/4.jpg",
+			"description": " Student got prize in coding competition."
+			
+		},
+		{
+			"image": "../images/8.jpg",
+			"description": "Discussion about C & C++ language."
+			
+		},
+		{
+			"image": "../images/10.jpg",
+			"description": " Workshop of web development by Exec Software Solutions."
+			
+		},
+		{
+			"image": "../images/11.jpg",
+			"description": "  Workshop of web development by Exec Software Solutions."
+			
+		}
+	
+	]
+}

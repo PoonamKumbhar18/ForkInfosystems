@@ -1,0 +1,130 @@
+[
+    
+    {
+        "name" : "Priyanka Jagtap",
+        "company" : "Tata Consultancy Services(TCS)",
+        "technology" : "Oracle SQL",
+        "year" : "2021"
+    },
+    {
+        "name" : "Ashish Bapat",
+        "company" : "Decision Machines Pvt Ltd",
+        "technology" : "Python Developer",
+        "year" : "2021"
+    },
+    {
+        "name" : "Ashish Babar",
+        "company" : "Cognizant",
+        "technology" : "C# .NET",
+        "year" : "2020"
+    },
+    
+    {
+        "name" : "Yogesh Sawant",
+        "company" : "Cognizant",
+        "technology" : "ASP .NET",
+        "year" : "2020"
+    },
+    {
+        "name" : "Indrajit Deshmukh",
+        "company" : "SoftCore Solution",
+        "technology" : "SAP",
+        "year" : "2020"
+    },
+    {
+        "name" : "Rushikesh Gurav",
+        "company" : "Asychron Solutions Pvt. Ltd.,Pune",
+        "technology" : "React JS",
+        "year" : "2020"
+    },
+    {
+        "name" : "Nikita Karande",
+        "company" : "Yugensys",
+        "technology" : "Angular, React & Android Native",
+        "year" : "2020"
+    },
+    {
+        "name" : "Ganesh Kutwal",
+        "company" : "Robot & Tortoise Technology Solutions",
+        "technology" : "C# .NET",
+        "year" : "2020"
+    },
+    {
+        "name" : "Vishal Mali",
+        "company" : "Optiquall IT Slotuions Pvt. Ltd.",
+        "technology" : "C# .NET, ASP .NET",
+        "year" : "2020"
+    },
+    {
+        "name" : "Shubham Pawar",
+        "company" : "Robot & Tortoise Technology Solutions",
+        "technology" : "C# .NET",
+        "year" : "2020"
+    },
+    {
+        "name" : "Pratik Jagdale",
+        "company" : "Hoerbiger Pvt Ltd",
+        "technology" : "C# .NET",
+        "year" : "2019"
+    },
+    {
+        "name" : "Jayram Patil",
+        "company" : "Synechron Technologies Pvt. Ltd.",
+        "technology" : "C# .NET & Angular",
+        "year" : "2019"
+    },
+    {
+        "name" : "Rohit Shedge",
+        "company" : "Optiquall IT Solution Pvt. Ltd.",
+        "technology" : "C# .NET MVC",
+        "year" : "2019"
+    },
+    {
+        "name" : "Vishal Udugade",
+        "company" : "Webtech Developers",
+        "technology" : "C# .NET",
+        "year" : "2019"
+    },
+    {
+        "name" : "Atul Salunkhe",
+        "company" : "JAWK Software",
+        "technology" : "Java",
+        "year" : "2019"
+    },
+    {
+        "name" : "Sunil Pawar",
+        "company" : "Asychron Solutions Pvt. Ltd.,Pune",
+        "technology" : "React JS",
+        "year" : "2019"
+    },
+    {
+        "name" : "Om Patil",
+        "company" : "iauro Systems",
+        "technology" : "Flutter",
+        "year" : "2019"
+    },
+    {
+        "name" : "Mayur Tadavi",
+        "company" : "Asynchron Solutions Pvt. Ltd., Pune",
+        "technology" : "React JS",
+        "year" : "2019"
+    },
+    {
+        "name" : "Tanmay Sankpal",
+        "company" : "Rabbit & Tortoise Technology Solutions",
+        "technology" : "Microsoft Power Platform",
+        "year" : "2019"
+    },
+    {        
+        "name" : "Jayashri Kumbhar",
+        "company" : "VoidStarIndia",
+        "technology" : "Angular",
+        "year" : "2018"
+    },
+    {        
+        "name" : "Nikhi Dingane",
+        "company" : "cataleya",
+        "technology" : "Java,JavaScript,Ember JS",
+        "year" : "2018"
+    }
+]
