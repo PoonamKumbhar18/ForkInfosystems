@@ -99,7 +99,7 @@ async function getPictures(){
 
               var desc = document.createElement("div")
               var des = document.createElement("p")
-              p.src = item.description;
+              p.value = item.description;
 
               product.appendChild(img);
               document.querySelector(".gallarys").appendChild(product);
