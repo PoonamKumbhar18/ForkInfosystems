@@ -107,14 +107,19 @@ http.onload = function(){
 }
 
 
-  async function getPictures(){
-    const result = await fetch("../json/gallary.json");
-              const data = await result.json();
-              const pics = data.pictures;
-              
-        for(let i=0;i<pics.length;i++){
-          console.log("hello");
-        }
+async function getPictures(){
+  const result = await fetch("../json/gallary.json");
+            const data = await result.json();
+            const pics = data.pictures;
+            
+            for(let item of gallarys){
+              console.log("hello");
+              var product = document.createElement("div");
+              var img = document.createElement("img");
+              img.src = item.image;
+              product.appendChild(img);
+              document.querySelector(".gallarys").appendChild(product);
+            }
 }
 
  
